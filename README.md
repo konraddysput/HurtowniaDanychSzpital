@@ -13,7 +13,7 @@ Przygotowany kod SQL/R ma na celu analize zbiorów danych na laboratiach z Integ
  
 ![Model bazodanowy][databasemodel]
 
-[databasemodel]: https://github.com/konraddysput/HurtowniaDanychSzpital/raw/master/Hurtownia-Danych/zdjecia/StrukturaBazodanowa.PNG "Model Bazodanowy"
+[databasemodel]: https://github.com/konraddysput/HurtowniaDanychSzpital/raw/master/Hurtownia%20danych/zdjecia/StrukturaBazodanowa.PNG "Model Bazodanowy"
 
 
 ### Otrzymane dane w widokach:
@@ -21,19 +21,19 @@ Przygotowany kod SQL/R ma na celu analize zbiorów danych na laboratiach z Integ
 Widok Pracowników: 
 ![employeeView][employeeView]
 
-[employeeView]: https://github.com/konraddysput/HurtowniaDanychSzpital/raw/master/Hurtownia-Danych/zdjecia/WidokPracownikow.PNG "employeeView"
+[employeeView]: https://github.com/konraddysput/HurtowniaDanychSzpital/raw/master/Hurtownia%20danych/zdjecia/WidokPracownikow.PNG "employeeView"
 
 
 Wykres statystyk stanowisk: 
 ![position][position]
 
-[position]: https://github.com/konraddysput/HurtowniaDanychSzpital/raw/master/Hurtownia-Danych/zdjecia/WidokStatystykiStanowisk.PNG "position"
+[position]: https://github.com/konraddysput/HurtowniaDanychSzpital/raw/master/Hurtownia%20danych/zdjecia/WidokStatystykiStanowisk.PNG "position"
 
 
 Wykres statystyk pracownikow per stanowisko: 
 ![employeeposition][employeeposition]
 
-[employeeposition]: https://github.com/konraddysput/HurtowniaDanychSzpital/raw/master/Hurtownia-Danych/zdjecia/WidokStatystykPracownikStanowisko.PNG"employeeposition"
+[employeeposition]: https://github.com/konraddysput/HurtowniaDanychSzpital/raw/master/Hurtownia%20danych/zdjecia/WidokStatystykPracownikStanowisko.PNG "employeeposition"
 
 
 
